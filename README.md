@@ -1,6 +1,6 @@
 ### yo
 
-I'm **frthr**, an open source enjoyer. I have dabbled in my fair share of Python, Java, and the classic webdev trio.
+I'm **frthr**, an open source enjoyer. I have dabbled in my fair share of Rust, Python, Java, and the webdev trio. i like pink
 
 I use arch (btw) 
 

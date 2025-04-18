@@ -1,8 +1,8 @@
 ### yo
 
-I'm **frthr**, an open source enjoyer. I have dabbled in my fair share of Rust, Python, Java, and the webdev trio. i like pink
+I'm **frthr**. I have dabbled in my fair share of Rust, Python, Java, and the webdev trio.
 
-I use arch (btw) 
+I use arch (btw) and love me some #af0cba (or similar) and backdrop-filter: blur(4px); (or 8)
 
 [Personal website for whatever I'm doing](https://ftn.is-a.dev)
 

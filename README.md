@@ -2,7 +2,7 @@
 
 I'm **frthr**. I have dabbled in my fair share of Rust, Python, Java, and the webdev trio.
 
-I use arch (btw) and love me some #af0cba (or similar) and backdrop-filter: blur(4px); (or 8)
+I use arch (btw) and love me some #af0cba and #cf5bf5 and backdrop-filter: blur(4px); (or 8) and and 
 
 [Personal website for whatever I'm doing](https://ftn.is-a.dev)
 

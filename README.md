@@ -1,8 +1,8 @@
 ### yo
 
-I'm **frthr**. I have dabbled in my fair share of Rust, Python, Java, and the webdev trio.
+I'm **frthr**. I have dabbled in my fair share of Rust, Python, Java, and JS.
 
-I use arch (btw) and love me some #af0cba and #cf5bf5 and backdrop-filter: blur(4px); (or 8) and and 
+I love #af0cba and #cf5bf5 and backdrop-filter: blur(4px); (or 8) and and 
 
 [Personal website for whatever I'm doing](https://ftn.is-a.dev)
 
